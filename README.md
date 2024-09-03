@@ -1,6 +1,6 @@
 # 🦇 The Dark Coder 🦇
 
-Greetings, curious visitor. I am the silent guardian of this digital realm, a watchful protector in the world of zeros and ones. In the shadows of the Batcave, I dwell, honing my skills in the art of codecraft. This is my README, where darkness meets the digital edge.
+Greetings, curious visitor. I am the silent guardian of this digital realm, a watchful protector in the world of zeros and ones. In the shadows of the Batcave, I dwell, honing my skills in the art of codecraft.
 
 ## About Me
 
