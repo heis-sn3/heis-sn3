@@ -23,5 +23,5 @@ To reach me, shine the Bat-Signal or send a message through the encrypted channe
 
 Remember, I am always watching, always coding. From the shadows of the Batcave, I emerge to bring justice to the digital world. 💻🦇
 
-> "It's not who I am underneath, but what I do that defines me." - The Dark Coder
+> "I code, therefore I am… tired." - The Dark Coder
 
